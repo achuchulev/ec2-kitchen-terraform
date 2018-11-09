@@ -1,6 +1,8 @@
-# A sample example of test kitchen plugin kitchen-terraform for testing Terraform configurations
+# Test kitchen plugin kitchen-terraform for testing Terraform configurations
 
-## The purpose of this repo is to demonstrate usage of kitchen-terraform plugin of test kitchen to test Terraform configuration
+## Purpose
+
+The purpose of this repo is to use test kitchen plugin _kitchen-terraform_ to test Terraform configuration
 
 ### Prerequisites
 
