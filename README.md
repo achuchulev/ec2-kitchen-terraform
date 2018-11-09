@@ -96,3 +96,22 @@ bundle install
 #### Run the test: 
 
 `bundle exec kitchen test`
+
+#### Tree view of directory structure
+
+```
+.
+├── Gemfile
+├── LICENSE
+├── README.md
+├── main.tf
+├── outputs.tf
+├── terraform.tfvars
+├── test
+│   └── integration
+│       └── default
+│           ├── controls
+│           │   └── operating_system_spec.rb
+│           └── inspec.yml
+└── variables.tf
+```
