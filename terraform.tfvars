@@ -1,0 +1,6 @@
+access_key = ""
+secret_key = ""
+key_name = "atanas-xenial"
+region = "us-east-2"
+ami = "ami-0daad02ff4ba87139"
+instance_type = "t2.micro"
