@@ -55,7 +55,11 @@ bundle install
 
 #### Run test
 
-Run command: `bundle exec kitchen test` 
+Run command: 
+
+```
+bundle exec kitchen test
+```
 
 ### on MAC
 
